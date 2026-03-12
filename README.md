@@ -55,7 +55,7 @@ Website
 https://michvi.com
 
 LinkedIn  
-https://www.linkedin.com/in/shikhar-data/
+https://www.linkedin.com/in/jhashikhar/
 
 Email  
 advisory@michvi.com
