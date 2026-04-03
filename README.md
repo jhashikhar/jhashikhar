@@ -1,69 +1,69 @@
 # Shikhar Jha
 
-Digital Governance Architect  
-Strategic Advisor – Michvi LLP  
+Co-Founder & Governance Architect  
+Michvi LLP — Independent Governance & Signal Advisory  
 
-Building governance-first digital systems for signal integrity, privacy compliance, and enterprise analytics reliability.
+Work focused on design-time governance, signal integrity, and structural accountability in modern digital systems.
 
 ---
 
 ## About
 
-I work at the intersection of digital governance, analytics infrastructure, and signal integrity.
+This work examines how digital systems are defined before they operate.
 
-My focus is ensuring that modern digital systems—marketing platforms, analytics stacks, and AI pipelines—operate with reliable signals, enforceable consent, and governance-first architecture.
+Across analytics platforms, consent architectures, and AI-integrated environments, system behavior is shaped by how signals are defined, how identity is represented, and how consent boundaries are established.
 
-This work explores how organizations can move beyond simple data collection toward structured digital governance systems.
+The focus here is not on data after it exists, but on the conditions under which it is created.
 
 ---
 
 ## Areas of Focus
 
-- **Digital Signal Governance** – Governance considerations before signals propagate
-- **Privacy & Consent Infrastructure** – Consent-first enforcement approaches
-- **Enterprise Analytics Architecture** – Signal integrity across measurement environments
-- **Governance-First Data Infrastructure** – Design-time governance thinking
-- **AI System Reliability** – Governance considerations for AI-dependent systems
+- **Design-Time Governance** — Governance before data generation  
+- **Signal Integrity** — Consistency of meaning across systems  
+- **Identity Continuity** — Structural linkage across environments  
+- **Consent Governance** — Boundary conditions for signal usage  
+- **Architectural Risk** — Exposure embedded in system definition  
 
 ---
 
 ## Current Work
 
-Exploring governance-oriented approaches for modern digital ecosystems.
+Exploring governance conditions in modern digital ecosystems.
 
-**Key exploration areas:**
+Areas include:
 
-- Signal integrity monitoring across analytics environments  
-- Consent and privacy enforcement layers  
-- Governance approaches for digital data infrastructure  
-- Governance considerations for enterprise measurement environments  
+- Signal consistency across distributed systems  
+- Consent boundary conditions across architectures  
+- Structural influences on analytics and attribution systems  
+- Governance considerations in AI-integrated environments  
 
 ---
 
-## Professional Work
+## Professional Context
 
-**Michvi LLP** – Independent Digital Signal Governance Advisory  
-AS-1 Design-Time Governance Assessment
+**Michvi LLP** — Independent Governance & Signal Advisory  
+Focus: Design-Time Governance
 
-**SRONIQ** – Technology research initiative
+**SRONIQ** — Technology research initiative
 
 ---
 
 ## Links
 
 Website  
-https://michvi.com
+https://michvi.com  
 
 LinkedIn  
-https://www.linkedin.com/in/jhashikhar/
+https://www.linkedin.com/in/jhashikhar/  
 
 Email  
-advisory@michvi.com
+advisory@michvi.com  
 
 ---
 
 ## Note
 
-This profile contains research notes and architectural thinking related to digital governance systems.
+This repository reflects conceptual and structural thinking related to governance in digital systems.
 
-Implementation frameworks and operational systems are developed separately.
+No implementation frameworks, operational models, or system logic are disclosed.
