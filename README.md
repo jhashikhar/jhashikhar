@@ -55,7 +55,6 @@ Independent governance research and advisory
 Governance-focused technology research initiative
 
 ---
-
 ## Public References
 
 **Digital Signal Governance Repository**  
@@ -69,6 +68,9 @@ https://michvi.com
 
 **LinkedIn**  
 https://www.linkedin.com/in/jhashikhar/
+
+**DEV Community**  
+https://dev.to/shikharjha
 
 ---
 
