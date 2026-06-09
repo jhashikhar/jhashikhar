@@ -3,7 +3,7 @@
 Co-Founder & Governance Architect  
 Michvi LLP — Independent Governance Research & Advisory  
 
-Author of the Digital Signal Governance (DSG) conceptual framework.
+Author and maintainer of the Digital Signal Governance (DSG) conceptual framework.
 
 ---
 
@@ -60,8 +60,12 @@ Governance-focused technology research initiative
 **Digital Signal Governance Repository**  
 https://github.com/jhashikhar/digital-signal-governance
 
+**Digital Signal Governance (DSG)**
+DOI: https://doi.org/10.5281/zenodo.20611372
+
 **ORCID**  
 https://orcid.org/0009-0004-0842-4171
+
 
 **Michvi LLP**  
 https://michvi.com
