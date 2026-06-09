@@ -60,8 +60,10 @@ Governance-focused technology research initiative
 **Digital Signal Governance Repository**  
 https://github.com/jhashikhar/digital-signal-governance
 
-**Digital Signal Governance (DSG)**
+
+**Digital Signal Governance (DSG)**  
 DOI: https://doi.org/10.5281/zenodo.20611372
+
 
 **ORCID**  
 https://orcid.org/0009-0004-0842-4171
